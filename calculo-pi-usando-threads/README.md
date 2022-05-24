@@ -31,6 +31,3 @@ O resultado deve conter o valor obtido de π. Além disso, para cada cenário ex
 ## Descrição da solução
 
 ...
-
-
-https://jlss14ifal-so2022-jceix9knic2.ws-us45.gitpod.io/
