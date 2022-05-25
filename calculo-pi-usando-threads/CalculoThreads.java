@@ -37,7 +37,7 @@ public class CalculoThreads {
             fim += partesDivididas;
 
         }
-
+ 
         // Espera todas as threads terminarem
         while (true) {
 

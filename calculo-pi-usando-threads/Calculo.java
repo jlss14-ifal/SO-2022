@@ -27,7 +27,7 @@ public class Calculo {
             return resultado;
 
     }
-
+ 
     /*
     
         ### double calculaParte(int n) ###

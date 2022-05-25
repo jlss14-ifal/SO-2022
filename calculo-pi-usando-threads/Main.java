@@ -23,12 +23,12 @@ public class Main {
                 execucoes[i] = new CalculoThreads().calculaComThreads(numeroThreads[i]);
             }
             for(j=0; j<5; j++){
-                
+                soma = 
             }
             //medias[i]= ((i-3)**2)/5
         }
         // SAIDA
-
+ 
         System.out.println("\nRESULTADOS:\n");
 
         for (int i = 0; i < numeroThreads.length; i++) {
