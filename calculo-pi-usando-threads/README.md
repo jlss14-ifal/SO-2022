@@ -29,7 +29,7 @@ O resultado deve conter o valor obtido de π. Além disso, para cada cenário ex
 - desvio padrão do tempo de execução
 
 ## Descrição da solução
- 
+
 Foram criadas as classes:
 - `Calculo.java`: para fazer o cálculo de uma parte de PI;
 - `CalculoThreads.java`: para criar Threads baseado no número que ele recebe;

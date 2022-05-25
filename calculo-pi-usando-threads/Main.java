@@ -19,16 +19,17 @@ public class Main {
             System.out.println("\nCom " + numeroThreads[i] + " thread:" + "\n");
 
             long[] execucoes = new long[5];
+            
             for(i=0;  i<5; i++){
                 execucoes[i] = new CalculoThreads().calculaComThreads(numeroThreads[i]);
             }
             for(j=0; j<5; j++){
-                soma = 
+                soma += execucoes[i]
             }
             //medias[i]= ((i-3)**2)/5
         }
         // SAIDA
- 
+
         System.out.println("\nRESULTADOS:\n");
 
         for (int i = 0; i < numeroThreads.length; i++) {
