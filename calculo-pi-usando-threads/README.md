@@ -30,4 +30,13 @@ O resultado deve conter o valor obtido de π. Além disso, para cada cenário ex
 
 ## Descrição da solução
 
+Foram criadas as classes:
+- `Calculo.java`: para fazer o cálculo de uma parte de PI;
+- `CalculoThreads.java`: para criar Threads baseado no número que ele recebe;
+- `Main.java`: para iniciar `CalculoThreads.java` para cada quantidade de Threads e apresentar os resultados de média e desvio padrão para cada.
+
+Também foi criado o arquivo `run.sh` para compilar e executar.
+
+### Funcionamento
+
 ...

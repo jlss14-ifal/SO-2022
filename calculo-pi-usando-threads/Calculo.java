@@ -17,7 +17,6 @@ public class Calculo {
         A cada I serve como entrada para o metodo calculaParte que por sua vez retorna um pedaco menor, logo,
             a cada resultado de calculaParte(N) eh somado a variavel RESULTADO, fazendo assim uma parte de PI 
      */
-
     public double calculaNPartes(int inicio, int fim) {
 
             double resultado = 0.0;
@@ -37,7 +36,6 @@ public class Calculo {
             (-1)^n / 2n + 1
     
     */
-
     public double calculaParte(int n) {
 
             return Math.pow(-1, n) 
@@ -53,5 +51,7 @@ public class Calculo {
         System.out.println(c.calculaNPartes(0, 100));
 
     }*/
+
+    
 
 }
